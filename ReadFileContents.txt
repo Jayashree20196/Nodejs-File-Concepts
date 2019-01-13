@@ -1,0 +1,4 @@
+This file is created for testing readfile task.
+The task is assigned from learnyoucode.
+This file contains 4 new lines.
+I hope it returns the correct value as 4.
